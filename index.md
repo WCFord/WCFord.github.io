@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Competing Through Business Analytics (CTBA)
+description: A collection of documents to help with CTBA
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
