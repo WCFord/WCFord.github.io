@@ -1,5 +1,5 @@
 ---
-title: Week 2
-description: Week 2 documents
+title: np.linalg.solve
+description: Using numpy to solve linear algebra equations
 
 ---
