@@ -3,6 +3,8 @@ title: Ford's Analytics
 description: A page to share what I've learned in analytics
 ---
 
+![Ozone vs Temp](/Pics/M6oz.jpg)
+
 Here's an example of the application of np.linalg.solve
 - [np.linalg.solve](/np.linalg.solve/index.md)
 
