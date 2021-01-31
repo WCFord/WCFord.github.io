@@ -3,6 +3,9 @@ title: Ford's Analytics
 description: A page to share what I've learned in analytics
 ---
 
+Here's an example of the application of np.linalg.solve
+- [np.linalg.solve](/np.linalg.solve/index.md)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
