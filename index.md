@@ -1,6 +1,6 @@
 ---
-title: Competing Through Business Analytics (CTBA)
-description: A collection of documents to help with CTBA!
+title: CTBA
+description: Docs to help with CTBA
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
