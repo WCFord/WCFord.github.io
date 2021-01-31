@@ -1,6 +1,6 @@
 ---
-title: CTBA
-description: Information to succeed in CTBA
+title: Ford's Analytics
+description: A page to share what I've learned in analytics
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
