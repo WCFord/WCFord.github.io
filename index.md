@@ -1,5 +1,6 @@
 ---
-layout: default
+title: CTBA
+description: Information to succeed in CTBA
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
